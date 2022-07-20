@@ -1,0 +1,15 @@
+C:\Users\Humera\source\repos\ComputeQuotientandRemainder\ComputeQuotientandRemainder\bin\Debug\net6.0\ComputeQuotientandRemainder.exe
+C:\Users\Humera\source\repos\ComputeQuotientandRemainder\ComputeQuotientandRemainder\bin\Debug\net6.0\ComputeQuotientandRemainder.deps.json
+C:\Users\Humera\source\repos\ComputeQuotientandRemainder\ComputeQuotientandRemainder\bin\Debug\net6.0\ComputeQuotientandRemainder.runtimeconfig.json
+C:\Users\Humera\source\repos\ComputeQuotientandRemainder\ComputeQuotientandRemainder\bin\Debug\net6.0\ComputeQuotientandRemainder.dll
+C:\Users\Humera\source\repos\ComputeQuotientandRemainder\ComputeQuotientandRemainder\bin\Debug\net6.0\ComputeQuotientandRemainder.pdb
+C:\Users\Humera\source\repos\ComputeQuotientandRemainder\ComputeQuotientandRemainder\obj\Debug\net6.0\ComputeQuotientandRemainder.csproj.AssemblyReference.cache
+C:\Users\Humera\source\repos\ComputeQuotientandRemainder\ComputeQuotientandRemainder\obj\Debug\net6.0\ComputeQuotientandRemainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Humera\source\repos\ComputeQuotientandRemainder\ComputeQuotientandRemainder\obj\Debug\net6.0\ComputeQuotientandRemainder.AssemblyInfoInputs.cache
+C:\Users\Humera\source\repos\ComputeQuotientandRemainder\ComputeQuotientandRemainder\obj\Debug\net6.0\ComputeQuotientandRemainder.AssemblyInfo.cs
+C:\Users\Humera\source\repos\ComputeQuotientandRemainder\ComputeQuotientandRemainder\obj\Debug\net6.0\ComputeQuotientandRemainder.csproj.CoreCompileInputs.cache
+C:\Users\Humera\source\repos\ComputeQuotientandRemainder\ComputeQuotientandRemainder\obj\Debug\net6.0\ComputeQuotientandRemainder.dll
+C:\Users\Humera\source\repos\ComputeQuotientandRemainder\ComputeQuotientandRemainder\obj\Debug\net6.0\refint\ComputeQuotientandRemainder.dll
+C:\Users\Humera\source\repos\ComputeQuotientandRemainder\ComputeQuotientandRemainder\obj\Debug\net6.0\ComputeQuotientandRemainder.pdb
+C:\Users\Humera\source\repos\ComputeQuotientandRemainder\ComputeQuotientandRemainder\obj\Debug\net6.0\ComputeQuotientandRemainder.genruntimeconfig.cache
+C:\Users\Humera\source\repos\ComputeQuotientandRemainder\ComputeQuotientandRemainder\obj\Debug\net6.0\ref\ComputeQuotientandRemainder.dll
